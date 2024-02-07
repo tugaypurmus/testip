@@ -1,113 +1,106 @@
 #EXTM3U
 
-# * » Bein « * #
-
-#EXTINF:-1,BeIN Sports 1
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-language="English" tvg-country="TR" tvg-id="bein_sports_1" tvg-logo="https://example.com/bein_sports_1_logo.png" group-title="Sports",BeIN Sports 1
 https://corsproxy.org/?https://cakal.click/yayin1.m3u8
 
-#EXTINF:-1,BeIN Sports 2
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-language="English" tvg-country="TR" tvg-id="bein_sports_2" tvg-logo="https://example.com/bein_sports_2_logo.png" group-title="Sports",BeIN Sports 2
 https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
 
-#EXTINF:-1,BeIN Sports 3
+#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-language="English" tvg-country="TR" tvg-id="bein_sports_3" tvg-logo="https://example.com/bein_sports_3_logo.png" group-title="Sports",BeIN Sports 3
 https://corsproxy.org/?https://cakal.click/yayinb3.m3u8
 
-#EXTINF:-1,BeIN Sports 4
+#EXTINF:-1 tvg-name="BeIN Sports 4" tvg-language="English" tvg-country="TR" tvg-id="bein_sports_4" tvg-logo="https://example.com/bein_sports_4_logo.png" group-title="Sports",BeIN Sports 4
 https://corsproxy.org/?https://cakal.click/yayinb4.m3u8
 
-#EXTINF:-1,BeIN Sports 5
+#EXTINF:-1 tvg-name="BeIN Sports 5" tvg-language="English" tvg-country="TR" tvg-id="bein_sports_5" tvg-logo="https://example.com/bein_sports_5_logo.png" group-title="Sports",BeIN Sports 5
 https://corsproxy.org/?https://cakal.click/yayinb5.m3u8
 
-#EXTINF:-1,BeIN Max 1
+#EXTINF:-1 tvg-name="BeIN Max 1" tvg-language="English" tvg-country="TR" tvg-id="bein_max_1" tvg-logo="https://example.com/bein_max_1_logo.png" group-title="Sports",BeIN Max 1
 https://corsproxy.org/?https://cakal.click/yayinbm1.m3u8
 
-#EXTINF:-1,BeIN Max 2
+#EXTINF:-1 tvg-name="BeIN Max 2" tvg-language="English" tvg-country="TR" tvg-id="bein_max_2" tvg-logo="https://example.com/bein_max_2_logo.png" group-title="Sports",BeIN Max 2
 https://corsproxy.org/?https://cakal.click/yayinbm2.m3u8
 
-
-# * » SSport « * #
-#EXTINF:-1,S Sport
+#EXTINF:-1 tvg-name="S Sport" tvg-language="Turkish" tvg-country="TR" tvg-id="s_sport" tvg-logo="https://example.com/s_sport_logo.png" group-title="Sports",S Sport
 https://corsproxy.org/?https://cakal.click/yayinss.m3u8
 
-#EXTINF:-1,S Sport 2
+#EXTINF:-1 tvg-name="S Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="s_sport_2" tvg-logo="https://example.com/s_sport_2_logo.png" group-title="Sports",S Sport 2
 https://corsproxy.org/?https://cakal.click/yayinss2.m3u8
 
-# * » Tivibu « * #
-
-#EXTINF:-1,Tivibu 1
+#EXTINF:-1 tvg-name="Tivibu 1" tvg-language="Turkish" tvg-country="TR" tvg-id="tivibu_1" tvg-logo="https://example.com/tivibu_1_logo.png" group-title="Tivibu",Tivibu 1
 https://corsproxy.org/?https://cakal.click/yayint1.m3u8
 
-#EXTINF:-1,Tivibu 2
+#EXTINF:-1 tvg-name="Tivibu 2" tvg-language="Turkish" tvg-country="TR" tvg-id="tivibu_2" tvg-logo="https://example.com/tivibu_2_logo.png" group-title="Tivibu",Tivibu 2
 https://corsproxy.org/?https://cakal.click/yayint2.m3u8
 
-#EXTINF:-1,Tivibu 3
+#EXTINF:-1 tvg-name="Tivibu 3" tvg-language="Turkish" tvg-country="TR" tvg-id="tivibu_3" tvg-logo="https://example.com/tivibu_3_logo.png" group-title="Tivibu",Tivibu 3
 https://corsproxy.org/?https://cakal.click/yayint3.m3u8
 
-#EXTINF:-1,Tivibu 4
+#EXTINF:-1 tvg-name="Tivibu 4" tvg-language="Turkish" tvg-country="TR" tvg-id="tivibu_4" tvg-logo="https://example.com/tivibu_4_logo.png" group-title="Tivibu",Tivibu 4
 https://corsproxy.org/?https://cakal.click/yayint4.m3u8
 
-
-# * » Diğerleri « * #
-
-
-#EXTINF:-1,Smartspor
+#EXTINF:-1 tvg-name="Smartspor" tvg-language="Turkish" tvg-country="TR" tvg-id="smartspor" tvg-logo="https://example.com/smartspor_logo.png" group-title="Sports",Smartspor
 https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
 
-#EXTINF:-1,Smartspor
+#EXTINF:-1 tvg-name="Smartspor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="smartspor_2" tvg-logo="https://example.com/smartspor_2_logo.png" group-title="Sports",Smartspor 2
 https://corsproxy.org/?https://cakal.click/yayinsmarts2.m3u8
 
-#EXTINF:-1,TRT Spor
+#EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="trt_spor" tvg-logo="https://example.com/trt_spor_logo.png" group-title="Sports",TRT Spor
 https://corsproxy.org/?https://cakal.click/yayintrtspor.m3u8
 
-#EXTINF:-1,TRT Spor 2
+#EXTINF:-1 tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="trt_spor_2" tvg-logo="https://example.com/trt_spor_2_logo.png" group-title="Sports",TRT Spor 2
 https://corsproxy.org/?https://cakal.click/yayintrtspor2.m3u8
 
-#EXTINF:-1,TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="trt_1" tvg-logo="https://example.com/trt_1_logo.png" group-title="TRT",TRT 1
 https://corsproxy.org/?https://cakal.click/yayintrt1.m3u8
 
-#EXTINF:-1,A Spor
+#EXTINF:-1 tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="a_spor" tvg-logo="https://example.com/a_spor_logo.png" group-title="Sports",A Spor
 https://corsproxy.org/?https://cakal.click/yayinas.m3u8
 
-#EXTINF:-1,ATV
+#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="atv" tvg-logo="https://example.com/atv_logo.png" group-title="General",ATV
 https://corsproxy.org/?https://cakal.click/yayinatv.m3u8
 
-#EXTINF:-1,TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="tv_8" tvg-logo="https://example.com/tv_8_logo.png" group-title="General",TV 8
 https://corsproxy.org/?https://cakal.click/yayintv8.m3u8
 
-#EXTINF:-1,TV 8.5
+#EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="tv_8_5" tvg-logo="https://example.com/tv_8_5_logo.png" group-title="General",TV 8.5
 https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
 
-#EXTINF:-1,NBA TV
+#EXTINF:-1 tvg-name="NBA TV" tvg-language="English" tvg-country="TR" tvg-id="nba_tv" tvg-logo="https://example.com/nba_tv_logo.png" group-title="Sports",NBA TV
 https://corsproxy.org/?https://cakal.click/yayinnba.m3u8
 
-#EXTINF:-1,Euro Sport 1
-https://corsproxy.org/?https://cakal.click/yayineu1.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 1" tvg-language="English" tvg-country="TR" tvg-id="euro_sport_1" tvg-logo="https://example.com/euro_sport_1_logo.png" group-title="Sports",Euro Sport 1
+https://corsproxy.org/?https://cakal.click/yayineurosport1.m3u8
 
-#EXTINF:-1,Euro Sport 2
-https://corsproxy.org/?https://cakal.click/yayineu2.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 2" tvg-language="English" tvg-country="TR" tvg-id="euro_sport_2" tvg-logo="https://example.com/euro_sport_2_logo.png" group-title="Sports",Euro Sport 2
+https://corsproxy.org/?https://cakal.click/yayineurosport2.m3u8
 
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-language="English" tvg-country="TR" tvg-id="discovery_channel" tvg-logo="https://example.com/discovery_channel_logo.png" group-title="Entertainment",Discovery Channel
+https://corsproxy.org/?https://cakal.click/yayindiscovery.m3u8
 
-# * » Exxen « * #
+#EXTINF:-1 tvg-name="National Geographic" tvg-language="English" tvg-country="TR" tvg-id="national_geographic" tvg-logo="https://example.com/national_geographic_logo.png" group-title="Entertainment",National Geographic
+https://corsproxy.org/?https://cakal.click/yayinnationalgeographic.m3u8
 
-#EXTINF:-1,Exxen 1
-https://corsproxy.org/?https://cakal.click/yayinex1.m3u8
+#EXTINF:-1 tvg-name="CNN International" tvg-language="English" tvg-country="TR" tvg-id="cnn_international" tvg-logo="https://example.com/cnn_international_logo.png" group-title="News",CNN International
+https://corsproxy.org/?https://cakal.click/yayincnn.m3u8
 
-#EXTINF:-1,Exxen 2
-https://corsproxy.org/?https://cakal.click/yayinex2.m3u8
+#EXTINF:-1 tvg-name="BBC World News" tvg-language="English" tvg-country="TR" tvg-id="bbc_world_news" tvg-logo="https://example.com/bbc_world_news_logo.png" group-title="News",BBC World News
+https://corsproxy.org/?https://cakal.click/yayinbbc.m3u8
 
-#EXTINF:-1,Exxen 3
-https://corsproxy.org/?https://cakal.click/yayinex3.m3u8
+#EXTINF:-1 tvg-name="FOX" tvg-language="English" tvg-country="TR" tvg-id="fox" tvg-logo="https://example.com/fox_logo.png" group-title="General",FOX
+https://corsproxy.org/?https://cakal.click/yayinfox.m3u8
 
-#EXTINF:-1,Exxen 4
-https://corsproxy.org/?https://cakal.click/yayinex4.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-language="English" tvg-country="TR" tvg-id="disney_channel" tvg-logo="https://example.com/disney_channel_logo.png" group-title="Kids",Disney Channel
+https://corsproxy.org/?https://cakal.click/yayindisney.m3u8
 
-#EXTINF:-1,Exxen 5
-https://corsproxy.org/?https://cakal.click/yayinex5.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-language="English" tvg-country="TR" tvg-id="nickelodeon" tvg-logo="https://example.com/nickelodeon_logo.png" group-title="Kids",Nickelodeon
+https://corsproxy.org/?https://cakal.click/yayinnickelodeon.m3u8
 
-#EXTINF:-1,Exxen 6
-https://corsproxy.org/?https://cakal.click/yayinex6.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-language="English" tvg-country="TR" tvg-id="cartoon_network" tvg-logo="https://example.com/cartoon_network_logo.png" group-title="Kids",Cartoon Network
+https://corsproxy.org/?https://cakal.click/yayincartoonnetwork.m3u8
 
-#EXTINF:-1,Exxen 7
-https://corsproxy.org/?https://cakal.click/yayinex7.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-language="English" tvg-country="TR" tvg-id="mtv" tvg-logo="https://example.com/mtv_logo.png" group-title="Music",MTV
+https://corsproxy.org/?https://cakal.click/yayinmtv.m3u8
 
-#EXTINF:-1,Exxen 8
-https://corsproxy.org/?https://cakal.click/yayinex8.m3u8
+#EXTINF:-1 tvg-name="VH1" tvg-language="English" tvg-country="TR" tvg-id="vh1" tvg-logo="https://example.com/vh1_logo.png" group-title="Music",VH1
+https://corsproxy.org/?https://cakal.click/yayinvh1.m3u8
