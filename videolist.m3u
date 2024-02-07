@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-name="BeIN Sports 1" tvg-language="English" tvg-country="TR" tvg-id="bein_sports_1" tvg-logo="https://example.com/bein_sports_1_logo.png" group-title="Sports",BeIN Sports 1
 https://corsproxy.org/?https://cakal.click/yayin1.m3u8
 
+#EXTINF:-1 tvg-name="BeIN Sports 1 Temiz" tvg-language="English" tvg-country="TR" tvg-id="bein_sports_1" tvg-logo="https://example.com/bein_sports_1_logo.png" group-title="Sports",BeIN Sports 1
+https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
+
 #EXTINF:-1 tvg-name="BeIN Sports 2" tvg-language="English" tvg-country="TR" tvg-id="bein_sports_2" tvg-logo="https://example.com/bein_sports_2_logo.png" group-title="Sports",BeIN Sports 2
 https://corsproxy.org/?https://cakal.click/yayinb2.m3u8
 
